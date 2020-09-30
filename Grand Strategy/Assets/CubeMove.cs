@@ -21,6 +21,10 @@ public class CubeMove : MonoBehaviour
 
     void FixedUpdate()
     {
-        this.transform.position += new Vector3(0.1f, 0, 0);
+    }
+
+    void OnMouseDown()
+    {
+        this.gameObject.SetActive(false);
     }
 }
