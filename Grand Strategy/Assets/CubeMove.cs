@@ -7,6 +7,7 @@ public class CubeMove : MonoBehaviour
     public int num;
     public Rigidbody rb;
     public Transform t;
+    public List<GameObject> Tiles;
     // Start is called before the first frame update
     void Start()
     {
