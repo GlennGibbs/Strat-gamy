@@ -48,7 +48,11 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 83
+=======
+  controlID: 123
+>>>>>>> CountryPrep
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +255,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 58
+=======
+  controlID: 43
+>>>>>>> CountryPrep
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -352,14 +360,20 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Tiles/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Dan Pettitt\Desktop\GitHub\Strat-gamy\Grand Strategy
+  m_LastProjectPath: C:\Users\Glenn\Documents\Github\Unity\Strat-gamy\Grand Strategy
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 66390000
     m_LastClickedID: 14694
     m_ExpandedIDs: 000000004c3900005c39000000ca9a3b
+=======
+    m_SelectedIDs: 523b0000
+    m_LastClickedID: 15186
+    m_ExpandedIDs: 00000000523b000000ca9a3b
+>>>>>>> CountryPrep
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +401,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000004c390000
+=======
+    m_ExpandedIDs: 00000000523b0000
+>>>>>>> CountryPrep
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -414,7 +432,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -513,7 +531,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 60fbffff
+      m_ExpandedIDs: 00f9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -625,7 +643,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.030285554, y: -0.0311636, z: 0.0011356276, w: 0.9991175}
     speed: 2
-    m_Value: {x: 0.030283656, y: -0.031161645, z: 0.0011355564, w: 0.99905485}
+    m_Value: {x: -0.030285554, y: 0.031163601, z: -0.0011356276, w: -0.9991175}
   m_Size:
     m_Target: 12.768478
     speed: 2
@@ -703,8 +721,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -712
     m_HBaseRangeMax: 712
-    m_VBaseRangeMin: -317
-    m_VBaseRangeMax: 317
+    m_VBaseRangeMin: -327.5
+    m_VBaseRangeMax: 327.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -721,11 +739,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 1424
-      height: 634
+      height: 655
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 712, y: 317}
+    m_Translation: {x: 712, y: 327.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -733,9 +751,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -712
-      y: -317
+      y: -327.5
       width: 1424
-      height: 634
+      height: 655
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1424, y: 655}
