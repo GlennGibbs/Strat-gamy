@@ -4,13 +4,21 @@ using UnityEngine;
 
 public class State : MonoBehaviour
 {
-    // Start is called before the first frame update
+
+    public float income;
+    public float maintenance;
+    public float prosperity;
+
+    public bool isActive;
+
+    public List<Territory> territories;
+
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         
